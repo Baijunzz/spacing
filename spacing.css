@@ -1,0 +1,33 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+
+img,
+p {
+  background-color: rgb(145, 219, 219);
+  border-radius: 10px;
+}
+
+p,
+article {
+  padding-left: 10px;
+}
+
+p {
+  margin-left: 10px;
+}
+
+article {
+  margin-left: 5px;
+}
+
+article {
+  border-left: 1px solid purple;
+  padding-left: 25px;
+}
+
+h1,
+h2 {
+  margin: 0px;
+}
